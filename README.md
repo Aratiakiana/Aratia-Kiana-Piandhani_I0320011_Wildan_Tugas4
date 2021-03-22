@@ -3,6 +3,6 @@
 Tugas Praktikum Prokom Week4. 2021
 
 ## Daftar Isi:
-### Exercise 4.1 - 4.12
-### Soal 1-4
+### 1. Exercise 4.1 - 4.12
+### 2. Soal 1-4
 
