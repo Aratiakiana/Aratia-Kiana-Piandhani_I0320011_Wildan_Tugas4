@@ -4,9 +4,9 @@ if usia <= a :
     print("Anda memenuhi usia")
     b = str(input("Apakah anda lulus ujian kualifikasi (Y/T) "))
     if b == "Y" :
-        print("Anda boleh mengikuti kursus")
+        print("Anda dapat mendaftar di kursus")
     elif b == "T" :
-        print("Anda tidak boleh mengikuti kursus")
+        print("Anda tidak dapat mendaftar di kursus")
 
 else :
     print("Anda tidak memenuhi usia")
