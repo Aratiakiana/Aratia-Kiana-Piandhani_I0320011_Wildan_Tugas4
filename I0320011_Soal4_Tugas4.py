@@ -2,7 +2,7 @@ usia = 21
 a = int(input("Berapa usia Anda : "))
 if usia <= a :
     print("Anda memenuhi syarat usia")
-    b = str(input("Apakah anda lulus ujian kualifikasi (Y/T) "))
+    b = str(input("Apakah anda lulus ujian kualifikasi (Y/T)? "))
     if b == "Y" :
         print("Anda dapat mendaftar di kursus")
     elif b == "T" :
