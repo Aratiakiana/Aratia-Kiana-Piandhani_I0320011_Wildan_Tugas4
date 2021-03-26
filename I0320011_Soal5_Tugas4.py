@@ -1,4 +1,4 @@
-s = "telpon saya berbunyi"
+s = "Strongs and awesome!"
 
 # Panjangnya harusnya 20
 
